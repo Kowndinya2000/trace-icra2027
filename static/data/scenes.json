@@ -1,0 +1,308 @@
+{
+  "replay": [
+    {
+      "label": "Scene 01",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 02",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 03",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 04",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 05",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 06",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 07",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 08",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    }
+  ],
+  "online-teacher": [
+    {
+      "label": "Recorded scene 01",
+      "src": "static/video/01_onlineteacher.mp4",
+      "poster": "static/images/01_onlineteacher.webp",
+      "caption": "Online Teacher \u00b7 Video 01 \u00b7 Recorded scene 01 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 1
+    },
+    {
+      "label": "Recorded scene 02",
+      "src": "static/video/02_onlineteacher.mp4",
+      "poster": "static/images/02_onlineteacher.webp",
+      "caption": "Online Teacher \u00b7 Video 02 \u00b7 Recorded scene 02 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 2
+    },
+    {
+      "label": "Recorded scene 03",
+      "src": "static/video/03_onlineteacher.mp4",
+      "poster": "static/images/03_onlineteacher.webp",
+      "caption": "Online Teacher \u00b7 Video 03 \u00b7 Recorded scene 03 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 3
+    },
+    {
+      "label": "Recorded scene 04",
+      "src": "static/video/04_onlineteacher.mp4",
+      "poster": "static/images/04_onlineteacher.webp",
+      "caption": "Online Teacher \u00b7 Video 04 \u00b7 Recorded scene 04 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 4
+    },
+    {
+      "label": "Recorded scene 06",
+      "src": "static/video/05_onlineteacher.mp4",
+      "poster": "static/images/05_onlineteacher.webp",
+      "caption": "Online Teacher \u00b7 Video 05 \u00b7 Recorded scene 06 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 6
+    },
+    {
+      "label": "Recorded scene 07",
+      "src": "static/video/06_onlineteacher.mp4",
+      "poster": "static/images/06_onlineteacher.webp",
+      "caption": "Online Teacher \u00b7 Video 06 \u00b7 Recorded scene 07 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 7
+    },
+    {
+      "label": "Recorded scene 08",
+      "src": "static/video/07_onlineteacher.mp4",
+      "poster": "static/images/07_onlineteacher.webp",
+      "caption": "Online Teacher \u00b7 Video 07 \u00b7 Recorded scene 08 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 8
+    },
+    {
+      "label": "Recorded scene 10",
+      "src": "static/video/08_onlineteacher.mp4",
+      "poster": "static/images/08_onlineteacher.webp",
+      "caption": "Online Teacher \u00b7 Video 08 \u00b7 Recorded scene 10 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 10
+    }
+  ],
+  "trace": [
+    {
+      "label": "Recorded scene 01",
+      "src": "static/video/01_trace.mp4",
+      "poster": "static/images/01_trace.webp",
+      "caption": "TRACE \u00b7 Video 01 \u00b7 Recorded scene 01 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 1
+    },
+    {
+      "label": "Recorded scene 02",
+      "src": "static/video/02_trace.mp4",
+      "poster": "static/images/02_trace.webp",
+      "caption": "TRACE \u00b7 Video 02 \u00b7 Recorded scene 02 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 2
+    },
+    {
+      "label": "Recorded scene 03",
+      "src": "static/video/03_trace.mp4",
+      "poster": "static/images/03_trace.webp",
+      "caption": "TRACE \u00b7 Video 03 \u00b7 Recorded scene 03 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 3
+    },
+    {
+      "label": "Recorded scene 04",
+      "src": "static/video/04_trace.mp4",
+      "poster": "static/images/04_trace.webp",
+      "caption": "TRACE \u00b7 Video 04 \u00b7 Recorded scene 04 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 4
+    },
+    {
+      "label": "Recorded scene 06",
+      "src": "static/video/05_trace.mp4",
+      "poster": "static/images/05_trace.webp",
+      "caption": "TRACE \u00b7 Video 05 \u00b7 Recorded scene 06 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 6
+    },
+    {
+      "label": "Recorded scene 07",
+      "src": "static/video/06_trace.mp4",
+      "poster": "static/images/06_trace.webp",
+      "caption": "TRACE \u00b7 Video 06 \u00b7 Recorded scene 07 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 7
+    },
+    {
+      "label": "Recorded scene 08",
+      "src": "static/video/07_trace.mp4",
+      "poster": "static/images/07_trace.webp",
+      "caption": "TRACE \u00b7 Video 07 \u00b7 Recorded scene 08 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 8
+    },
+    {
+      "label": "Recorded scene 10",
+      "src": "static/video/08_trace.mp4",
+      "poster": "static/images/08_trace.webp",
+      "caption": "TRACE \u00b7 Video 08 \u00b7 Recorded scene 10 \u00b7 Original playback speed \u00b7 1080p",
+      "captions": null,
+      "recorded_scene": 10
+    }
+  ],
+  "pmbs": [
+    {
+      "label": "Scene 01",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 02",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 03",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 04",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 05",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 06",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 07",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 08",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    }
+  ],
+  "spiral": [
+    {
+      "label": "Scene 01",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 02",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 03",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 04",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 05",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 06",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 07",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    },
+    {
+      "label": "Scene 08",
+      "src": null,
+      "poster": null,
+      "caption": null,
+      "captions": null
+    }
+  ]
+}
